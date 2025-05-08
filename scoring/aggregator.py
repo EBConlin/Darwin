@@ -1,2 +1,5 @@
 class ScoringAggregator:
-    def __init__(self, past_outputs=None): ...
+    def compute_scores(self, agent_output):
+        return {
+            'utility': ..., 'novelty': ..., 'interpretability': ..., 'uncertainty': ...
+        }
