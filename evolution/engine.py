@@ -1,4 +1,5 @@
-class DarwinLoop:
-    """Controls evolution over generations."""
-    def run_generation(self):
-        raise NotImplementedError("Generation loop not implemented.")
+"""Module: engine.py — Auto-generated scaffold."""
+
+class Engine:
+    def __init__(self):
+        raise NotImplementedError('This is a scaffold. Implement your logic here.')

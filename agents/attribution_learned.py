@@ -1,7 +1,5 @@
-class LearnedAttributionModel:
-    """TreeLSTM attribution model mapping theory and score to component scores."""
-    def forward(self, theory_tree, performance_score):
-        raise NotImplementedError("Forward pass not implemented.")
+"""Module: attribution_learned.py — Auto-generated scaffold."""
 
-    def train(self, dataset):
-        raise NotImplementedError("Training routine not implemented.")
+class AttributionLearned:
+    def __init__(self):
+        raise NotImplementedError('This is a scaffold. Implement your logic here.')

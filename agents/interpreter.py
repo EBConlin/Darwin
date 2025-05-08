@@ -1,5 +1,5 @@
-"""Module: agent.py — Auto-generated scaffold."""
+"""Module: interpreter.py — Auto-generated scaffold."""
 
-class Agent:
+class Interpreter:
     def __init__(self):
         raise NotImplementedError('This is a scaffold. Implement your logic here.')
