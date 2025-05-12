@@ -1,0 +1,12 @@
+bo_update_interval: 5
+max_generations: 10
+agents:
+  - agent_1
+  - agent_2
+mutation:
+  max_subtree_depth: 3
+  replace_prob: 0.25
+  reuse_motif_prob: 0.6
+attribution:
+  score_threshold: 0.2
+  fallback_to_groundtruth: true
